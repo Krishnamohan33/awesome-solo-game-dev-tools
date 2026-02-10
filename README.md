@@ -119,5 +119,4 @@ Solo Game Developer & Indie Creator
 
 ---
 
-**Repo Name:** `awesome-solo-gamedev-tools`  
-**Focus:** Tools only. Solo-dev approved.
+
