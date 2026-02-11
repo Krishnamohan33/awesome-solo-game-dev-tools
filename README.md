@@ -1,4 +1,4 @@
-# 🎮 Awesome Solo Game Dev Tools
+# 🎮 KY Solo Game Dev Tools
 
 ![GitHub stars](https://img.shields.io/github/stars/Krishnamohan33/awesome-solo-game-dev-tools?style=for-the-badge)  
 ![GitHub forks](https://img.shields.io/github/forks/Krishnamohan33/awesome-solo-game-dev-tools?style=for-the-badge)  
