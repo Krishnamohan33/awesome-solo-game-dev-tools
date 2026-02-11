@@ -1,5 +1,12 @@
 # 🎮 Awesome Solo Game Dev Tools
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+![GitHub stars](https://img.shields.io/github/stars/Krishnamohan33/awesome-solo-game-dev-tools?style=for-the-badge)  
+![GitHub forks](https://img.shields.io/github/forks/Krishnamohan33/awesome-solo-game-dev-tools?style=for-the-badge)  
+![GitHub license](https://img.shields.io/github/license/Krishnamohan33/awesome-solo-game-dev-tools?style=for-the-badge)  
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)  
+
+
 A curated list of **awesome tools for solo game developers** — focused purely on **engines, art, audio, and testing**.
 
 No teams.  
